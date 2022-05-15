@@ -16,7 +16,7 @@ const App = () => {
                 initialRouteName={'Home'}
             >
                 <Stack.Screen
-                    name="Home"
+                    name="Poochwadge"
                     component={MainLayout}
                 />
             </Stack.Navigator>
